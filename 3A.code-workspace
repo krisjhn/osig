@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../jon/css"
+		},
+		{
+			"path": "../jon/fonts"
+		},
+		{
+			"path": "../jon/icon"
+		},
+		{
+			"path": "../jon/images"
+		},
+		{
+			"path": "../jon/js"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "fonts"
+		},
+		{
+			"path": "icon"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "js"
+		}
+	]
+}
